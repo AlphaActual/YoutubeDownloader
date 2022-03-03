@@ -6,7 +6,8 @@ My Youtube video downloader in Python
 1.  Run YouTubeDownloader1.0
 2.  Choose option 1) by entering 1
 3.  Paste the video link and hit enter!
-4.  Video will be downloaded in the same directory as the script file in the **highest quality available**
+4.  Choose **VIDEO or MP4 AUDIO**
+5.  File will be downloaded in the same directory as the script file in the **highest quality available**
 
 ## 2. Downloading multiple videos
 ### 1.  If you want to get the links from the youtube channel
@@ -17,10 +18,12 @@ My Youtube video downloader in Python
   - Copy all the links printed in the console and save it in the file JSONLinks.txt
   - JSONLinks.txt file must be in the same folder as the YouTubeDownloader1.0
   - Run YouTubeDownloader1.0 and choose option 2
+  - Choose **VIDEO or MP4 AUDIO**
  ### 2. If you have all the links that you want to download
-  - Save the links in the file JSONLinks.txt in the following format (like a pyton LIST):
+  - Save the links in the file JSONLinks.txt in the following format (like a python LIST):
  
 ```
 ["https://www.youtube.com/watch?v=wTP2RUD_cL0", "https://www.youtube.com/watch?v=kd9TlGDZGkI", "https://www.youtube.com/watch?v=Vppbdf-qtGU"]
 ```
   - Run YouTubeDownloader1.0 and choose option 2
+  - Choose **VIDEO or MP4 AUDIO**
