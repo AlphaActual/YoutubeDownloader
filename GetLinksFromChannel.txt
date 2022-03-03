@@ -1,0 +1,7 @@
+let alllinks = document.querySelectorAll('a[id="video-title"]');
+hrefs = [];
+
+alllinks.forEach(function(link){
+    hrefs.push(link.href)
+})
+console.log(JSON.stringify(hrefs))
