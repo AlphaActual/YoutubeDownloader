@@ -11,6 +11,7 @@ My Youtube video downloader in Python
 
 ## 2. Downloading multiple videos
 ### 1.  If you want to get the links from the youtube channel
+FAST YOUTUBE TUTORIAL [https://youtu.be/MVdO-lcaQ0s](https://youtu.be/MVdO-lcaQ0s)
   - Go to the desired channel
   - Make sure all the videos to be downloaded are shwon on the page (for **all videos** scroll all the way down until there are no more videos to be loaded on the page)
   - Open GetLinksFromChannel.txt, copy the code from the file
